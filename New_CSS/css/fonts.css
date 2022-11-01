@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Open Sans';
+  src: url('../fonts/OpenSans-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Open Sans-Bold';
+  src: url('../fonts/OpenSans-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'Open Sans-Medium';
+  src: url('../fonts/OpenSans-Medium.ttf');
+}
+
+@font-face {
+  font-family: 'Open Sans-SemiBold';
+  src: url('../fonts/OpenSans-SemiBold.ttf');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/Roboto-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Robotobold';
+  src: url('../fonts/Roboto-Bold.ttf');
+}
